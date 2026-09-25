@@ -1,0 +1,76 @@
+# Simple Banking System — Version 1
+
+- A simple console-based banking system built with **Python** and **SQLite**
+- This project was created as a learning project to practice Python programming, working with databases, functions, validation, and basic transaction handling.
+
+### Version 1.0.0
+Version 1 focuses on building the **core banking functionality** and making the application work from start to finish.
+
+## Features
+
+*  User Sign Up
+*  User Login
+*  SQLite database for storing user data
+*  View account details
+*  Check current balance
+*  Deposit money
+*  Withdraw money
+*  Transfer money between users
+*  Validate Egyptian phone numbers
+*  Prevent transferring money to yourself
+*  Check sufficient balance before transferring
+*  Basic transaction handling using `commit()` and `rollback()`
+*  Logout
+
+## Technologies
+
+* Python
+* SQLite
+* Git & GitHub
+
+## Project Structure
+
+```text
+project/
+├── main.py
+├── utils.py
+└── database.py
+```
+
+## Purpose of Version 1
+
+The main goal of this version is **not to have perfect or production-ready code**.
+The goal was to build a working project and practice the fundamentals of Python and database programming.
+The code structure and implementation will be improved in future versions.
+
+# Future Versions:
+
+### Version 2.0.0
+
+The next version will focus mainly on:
+
+* Refactoring the existing code
+* Improving code organization
+* Improving error handling
+* Reducing code repetition
+* Improving validation
+* Improving database handling
+* Making the project cleaner and easier to maintain
+
+### Version 3.0.0
+
+Future versions may introduce additional features such as:
+
+* Transaction history
+* Change password
+* Change PIN
+* Account deletion
+* Admin functionality
+* More advanced transaction management
+* Additional banking features
+
+## Project Status
+
+**Version 1.0 — Completed**
+This is the first working version of the project.
+Future versions will focus on improving the existing implementation and adding new functionality.
